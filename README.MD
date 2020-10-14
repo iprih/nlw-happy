@@ -24,4 +24,4 @@ Aplicação que conecta Pessoas e Ongs. Semana NLW - @rocketseat
 Obs.: Meu Projeto foi adaptado. O Projeto original visa em realizar a conexão com ofanatos. 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nlw-happy
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nlw-happy)
