@@ -97,7 +97,7 @@ export default function Ong() {
 
             <hr />
 
-            <h2>Instruções para visita</h2>
+            <h2>Orientações</h2>
             <p>{ong.instructions}</p>
 
             <div className="open-details">

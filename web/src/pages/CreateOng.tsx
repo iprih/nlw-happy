@@ -94,7 +94,7 @@ export default function CreateOng() {
             <legend>Dados</legend>
 
             <Map 
-              center={[-22.9125903,-43.2298955]} 
+              center={[-23.4428889,-46.4244038]} 
               style={{ width: '100%', height: 280 }}
               zoom={15}
               onclick={handleMapClick}
@@ -159,7 +159,7 @@ export default function CreateOng() {
           </fieldset>
 
           <fieldset>
-            <legend>Visitação</legend>
+            <legend>Adoção/Visitação/Doação</legend>
 
             <div className="input-block">
               <label htmlFor="instructions">Instruções</label>
